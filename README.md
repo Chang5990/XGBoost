@@ -8,8 +8,7 @@ https://www.kaggle.com/datasets/sherrytp/stock-prices-5y
 Please download the dataset and place the file `all_stocks_5yr.csv` in the project root directory before running the model.
  
 
-<<<<<<<HEAD
-How to Run：
+##  How to Run：
 
 1\. Run the model
 
@@ -21,7 +20,7 @@ streamlit run stock\_dashboard/app.py
 
 
 
-Requirements：
+## Requirements：
 
 Install the required packages:
 
@@ -29,7 +28,7 @@ pip install pandas numpy matplotlib scikit-learn xgboost streamlit
 
 
 
-Output Files：
+## Output Files：
 
 After running the model, prediction results and summary metrics will be saved in:
 
