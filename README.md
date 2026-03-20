@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<HEAD
 How to Run：
 
 1\. Run the model
@@ -26,6 +26,7 @@ After running the model, prediction results and summary metrics will be saved in
 stock\_dashboard/results/
 
 =======
-# XGBoost
-The task is to predict the **next-day closing price** from historical stock market data.  
->>>>>>> 938bc8140e048c893df36393e716c424e5e1485e
+
+>>>>>>>
+>>>>>>><img width="2232" height="1195" alt="5749332d9826f9abf1391c03d456d74a" src="https://github.com/user-attachments/assets/45267c51-61d8-4801-a017-45a66d8fe314" />
+
