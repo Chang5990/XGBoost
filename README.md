@@ -1,3 +1,13 @@
+## Data Source
+
+The dataset used in this project is from Kaggle:
+
+Stock Prices Dataset (5 Years):  
+https://www.kaggle.com/datasets/sherrytp/stock-prices-5y
+
+Please download the dataset and place the file `all_stocks_5yr.csv` in the project root directory before running the model.
+ 
+
 <<<<<<<HEAD
 How to Run：
 
