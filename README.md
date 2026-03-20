@@ -30,4 +30,5 @@ stock\_dashboard/results/
 >>>>>>>
 <img width="2232" height="1195" alt="5749332d9826f9abf1391c03d456d74a" src="https://github.com/user-attachments/assets/45267c51-61d8-4801-a017-45a66d8fe314" />
 
-<img width="1334" height="373" alt="image" src="https://github.com/user-attachments/assets/c1a189e1-ac8d-4861-9f71-c8a4f7e6f6ce" />
+<img width="1351" height="383" alt="image" src="https://github.com/user-attachments/assets/8c42dca1-676c-4feb-848f-018d16f711eb" />
+
